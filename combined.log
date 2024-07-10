@@ -1,0 +1,4 @@
+{"level":"error","message":"400 - Name and email are required - /users - POST - ::1","timestamp":"2024-07-09T10:55:12.907Z"}
+{"level":"error","message":"400 - Name and email are required - /users - POST - ::1","timestamp":"2024-07-09T10:57:30.089Z"}
+{"level":"info","message":"::1 - - [09/Jul/2024:10:57:30 +0000] \"POST /users HTTP/1.1\" 400 39 \"-\" \"PostmanRuntime/7.37.3\"","timestamp":"2024-07-09T10:57:30.139Z"}
+{"level":"info","message":"::1 - - [09/Jul/2024:10:58:09 +0000] \"GET /users HTTP/1.1\" 200 2 \"-\" \"PostmanRuntime/7.37.3\"","timestamp":"2024-07-09T10:58:09.179Z"}
